@@ -1,6 +1,6 @@
-# project_filter
+# Project Filter
 
-What Remains 2023 - 2024
+# What Remains 2023 - 2024
 
 Big Projects:
 - The Noise - Videogame / Audio Experience
