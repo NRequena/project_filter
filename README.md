@@ -5,8 +5,10 @@
 Big Projects:
 - The Noise - Videogame / Audio Experience
 - Delta City - Short Film or also Videogame
-- Apollo Short Film - 
+- Apollo Short Film 
 - Album but with 3D or 2D Generative Art reacting live to it.
+- S4 POV short film
+- Piramyds in Mars - Short film
 
 Small projects, spontaneous and fun, not to take more than 1 week or a few days.
 - Music
