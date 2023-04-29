@@ -11,7 +11,7 @@ Concept Short Films:
   - Apollo Short Film 
   - S4 POV short film
   - Piramyds in Mars - Short film
-  - Fyling Saucers - The UFO phenomenon - Project Blue Book - etc
+  - Fyling Saucers - The UFO phenomenon - Project Blue Book - POV reacreation of famous UFO sightings from 1940s-1960s.
 
 
 Small projects, spontaneous and fun, not to take more than 1 week or a few days.
