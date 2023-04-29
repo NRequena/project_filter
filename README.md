@@ -3,28 +3,32 @@
 # What Remains 2023 - 2024
 
 Big Projects:
-- The Noise - Videogame / Audio Experience
-- Delta City - Short Film or also Videogame
-- Apollo Short Film 
-- Album but with 3D or 2D Generative Art reacting live to it.
-- S4 POV short film
-- Piramyds in Mars - Short film
+  - The Noise - Videogame / Audio Experience
+  - Delta City - Short Film or also Videogame
+  - Album but with 3D or 2D Generative Art reacting live to it.
+
+Concept Short Films:
+  - Apollo Short Film 
+  - S4 POV short film
+  - Piramyds in Mars - Short film
+  - Fyling Saucers - The UFO phenomenon - Project Blue Book - etc
+
 
 Small projects, spontaneous and fun, not to take more than 1 week or a few days.
-- Music
-- Scripts
-- 3D Scenes
-- Renders
-- AI Generated content
-- etc
+  - Music
+  - Scripts
+  - 3D Scenes
+  - Renders
+  - AI Generated content
+  - etc
 
 Learning for Technical Director
-- Python
-- C++
-- VFX
-- Scripts
-- AI
-- After Effects
-- Blender
+  - Python
+  - C++
+  - VFX
+  - Scripts
+  - AI
+  - After Effects
+  - Blender
 
 
