@@ -31,5 +31,6 @@ Learning for Technical Director
   - AI
   - After Effects
   - Blender
+  - Unreal Engine
 
 
