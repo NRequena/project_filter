@@ -17,6 +17,7 @@ Concept Short Films:
 
 Small projects, spontaneous and fun, not to take more than 1 week or a few days.
   - Music
+  - Midi from Data Sets (Real Time or not)
   - Scripts
   - 3D Scenes
   - Renders
