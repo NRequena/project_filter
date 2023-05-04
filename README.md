@@ -10,9 +10,9 @@ Big Projects: Yearly projects, could take from 6 months to 2 years each.
   - Apollo Short Film 
 
 Concept Shots: Short conceptual shots to do in 2 - 5 days tops, explore a concept, make a shot, publish, move on. Many interests and many looks. Explore
-  - S4 POV short film
-  - Piramyds in Mars - Short film
-  - Fyling Saucers - The UFO phenomenon - Project Blue Book - POV reacreation of famous UFO sightings from 1940s-1960s.
+  - S4 POV
+  - Piramyds in Mars - 
+  - Fyling Saucers - The UFO phenomenon - Project Blue Book - Reacreation of famous UFO sightings from 1940s-1960s.
   - Black Mesa
 
 Small projects, spontaneous and fun, not to take more than 1 week or a few days.
